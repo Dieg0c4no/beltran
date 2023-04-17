@@ -26,7 +26,7 @@
   <h3 class="alert-heading">Resultados!</h3>
   <p>Estos son los alumnos que completaron el formulario.</p>
   <hr>
-  <p class="mb-0">Usted puede realizar modificaciones a los datos ingresados presionando <a href="opciones.html" class="alert-link">aqui.</a></p>
+  <p class="mb-0">Usted puede realizar modificaciones a los datos ingresados presionando <a href="../ciclos/opciones.html" class="alert-link">aqui.</a></p>
 </div>
 
  
@@ -54,7 +54,7 @@ echo"</table>";
 
 ?>
 
-<medium style="float:left; margin-top: 20px;"><a href="logout.php">Cerrar la sesión</a></medium>
+<medium style="float:left; margin-top: 20px;"><a href="../index.html">Cerrar la sesión</a></medium>
 </div>
  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
 </body>

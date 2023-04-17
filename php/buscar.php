@@ -31,7 +31,7 @@
 	<input type="submit" value="buscar">
 	</form>
 	<div>
-	<img src="escudo1.png" width="300px">
+	<img src="../img/escudo1.png" width="300px">
     </div>
     <!-- Optional JavaScript; choose one of the two! -->
 
